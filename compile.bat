@@ -1,0 +1,1 @@
+g++ -std=c++17 -Werror -Wall -Wextra -pedantic -o templater.exe main.cpp
