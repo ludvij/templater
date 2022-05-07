@@ -1,1 +1,12 @@
+# antlr things
+.antlr
+antlr4-runtime
+# cpp build files
+*.o
+# exe file
 *.exe
+# binaries output
+x64-Debug
+x64-Release
+win32-Debug
+win32-Release
